@@ -27,4 +27,4 @@ This is a command-line To-Do List application written in **Python** that allows 
 
 ```bash
 ├── todo.json         # Stores tasks in JSON format
-├── main.py           # Main Python script (your code)
+├── main.py           # Main Python script 
