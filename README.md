@@ -1,6 +1,6 @@
 # 📝 JSON-Based To-Do List Task Tracker (Python)
 
-This is a command-line To-Do List application written in **Python** that allows users to add, update, view, and delete tasks. Tasks are stored persistently using **JSON file handling**.
+This is a command-line To-Do List application written in **Python** that allos users to add, update, view, and delete tasks. Tasks are stored persistently using **JSON file handling**.
 
 ---
 
