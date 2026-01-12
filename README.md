@@ -6,7 +6,7 @@ This is a command-line To-Do List application written in **Python** that allos u
 
 ## 🚀 Features
 
-- ✅ Add multiple tasks with:
+- ✅ Add multiple tasks with
   - Task number
   - Description (validated)
   - Priority (Low / Medium / High)
